@@ -1,6 +1,6 @@
 # Carbon Test Program
 
-This program is to test Carbon lang.
+This program is to test Carbon lang, a Google-backed language aimed to co-exit with, and eventually replace C++ releasing in 2025.
 
 # Contribution 
 
