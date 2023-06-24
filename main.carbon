@@ -5,7 +5,7 @@ class Circle {
     var r: f32;
 };
 
-class Square() {
+class Square {
     var s: f32;
 };
 
