@@ -5,6 +5,10 @@ class Circle {
     var r: f32;
 };
 
+class Square() {
+    var s: f32;
+};
+
 fn PrintTotalArea(circles: Slice(Circle)) {
     var area: f32 = 0;
     for (c: Circle in circles) {
